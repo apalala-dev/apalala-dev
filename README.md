@@ -30,7 +30,7 @@ You can find the source code [here](https://github.com/apalala-dev/zwidget).
 
 #### HexaBoard
 
-[!HexaBoard](https://play-lh.googleusercontent.com/2GqoYySqtbH6BFE2S3quFo2wFG_9Ol5-R-22uFku7GDuQq0z5frhQfrUCpGoX2lKNB0=s360-rw)
+![HexaBoard](https://play-lh.googleusercontent.com/2GqoYySqtbH6BFE2S3quFo2wFG_9Ol5-R-22uFku7GDuQq0z5frhQfrUCpGoX2lKNB0=s360-rw)
 
 This game has been done fully with Flutter.
 Among the interesting parts, there are AI, animations and online capabilities.
