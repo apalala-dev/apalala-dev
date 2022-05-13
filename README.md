@@ -23,6 +23,8 @@ I already made 3 apps publicly available that you can find on [Google Play](http
 
 #### ZPuzzle
 
+![ZPuzzle](https://play-lh.googleusercontent.com/qnNYOKDi7pCpU3tpdWqOSaPfX2W3s0GLV0yivXW4rmbFQHgraDSCAggXpXijjhbBuPM=s360-rw)
+
 You can find this project on [GitHub](https://github.com/apalala-dev/zpuzzle). I was [one of the winners of the Flutter Puzzle Hack](https://devpost.com/software/zpuzzle) thanks to this project.
 You may also be interested in a package I developed for this project: [zwidget](https://pub.dev/packages/zwidget).
 It simulates 3D by overlapping the same widget several times and applying transforms to them.
@@ -37,6 +39,8 @@ Among the interesting parts, there are AI, animations and online capabilities.
 Find the app on Google Play [here](https://play.google.com/store/apps/details?id=com.apalala.hexagon).
 
 #### ApalalaParty
+
+![Apalala Party](https://play-lh.googleusercontent.com/ruz_UI_Ddw-zs7x8UVWO6ZcfigpMW6Bf1GCPXkeOjYNqwS6x5m6V0GzppaRV5-tjBD4=s360-rw)
 
 A party game that I developed to learn more about Flutter. In fact, there are several minigames inside that you can play with buddies on the same phone.
 Unfortunately, I worked on that particular app during the Covid lockdowns, which is not ideal for an app played on the same phone.
