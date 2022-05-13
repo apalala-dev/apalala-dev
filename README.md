@@ -19,7 +19,7 @@ I am looking for opportunities, so if you have any Flutter related job, I might 
 Even if Flutter is my key competence, you may also be interested in my ability to work with Figma. Indeed, most of my screens start with a mockup and if I need arts, I try to make them there as well. Svg rocks.
 Firebase, Android native, SQL and NoSQL are some of my other expertises.
 
-I already made 3 apps publicly available that you can find on Google Play.
+I already made 3 apps publicly available that you can find on [Google Play](https://play.google.com/store/apps/dev?id=5773474916640770322).
 
 #### ZPuzzle
 
@@ -29,6 +29,8 @@ It simulates 3D by overlapping the same widget several times and applying transf
 You can find the source code [here](https://github.com/apalala-dev/zwidget).
 
 #### HexaBoard
+
+[!HexaBoard](https://play-lh.googleusercontent.com/2GqoYySqtbH6BFE2S3quFo2wFG_9Ol5-R-22uFku7GDuQq0z5frhQfrUCpGoX2lKNB0=s360-rw)
 
 This game has been done fully with Flutter.
 Among the interesting parts, there are AI, animations and online capabilities.
@@ -57,6 +59,8 @@ You can also find me on [Malt](https://www.malt.fr/profile/sebastienbel).
 You can download my resume on my repo.
 Fun fact: it is made with Figma, as many of the assets I use daily in my work.
 
+My apps are available on Google Play:
+[![Google Play](https://img.shields.io/twitter/url?label=Google%20Play&logo=googleplay&logoColor=338bff&style=social&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D5773474916640770322)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D5773474916640770322)
 
 ## GitHub
 
