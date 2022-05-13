@@ -72,4 +72,4 @@ My apps are available on Google Play:
 <br/>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apalala-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/Naereen)
+![Profile views](https://gpvc.arturio.dev/apalala-dev)
