@@ -17,17 +17,22 @@ Here are some ideas to get you started:
 I am looking for opportunities, so if you have any Flutter related job, I might help you getting it done!
 
 Even if Flutter is my key competence, you may also be interested in my ability to work with Figma. Indeed, most of my screens start with a mockup and if I need arts, I try to make them there as well. Svg rocks.
+
 Firebase, Android native, SQL and NoSQL are some of my other expertises.
 
 I already made 3 apps publicly available that you can find on [Google Play](https://play.google.com/store/apps/dev?id=5773474916640770322).
+
 
 #### ZPuzzle
 
 ![ZPuzzle](https://play-lh.googleusercontent.com/qnNYOKDi7pCpU3tpdWqOSaPfX2W3s0GLV0yivXW4rmbFQHgraDSCAggXpXijjhbBuPM=s360-rw)
 
 You can find this project on [GitHub](https://github.com/apalala-dev/zpuzzle). I was [one of the winners of the Flutter Puzzle Hack](https://devpost.com/software/zpuzzle) thanks to this project.
+
 You may also be interested in a package I developed for this project: [zwidget](https://pub.dev/packages/zwidget).
+
 It simulates 3D by overlapping the same widget several times and applying transforms to them.
+
 You can find the source code [here](https://github.com/apalala-dev/zwidget).
 
 #### HexaBoard
@@ -35,7 +40,9 @@ You can find the source code [here](https://github.com/apalala-dev/zwidget).
 ![HexaBoard](https://play-lh.googleusercontent.com/2GqoYySqtbH6BFE2S3quFo2wFG_9Ol5-R-22uFku7GDuQq0z5frhQfrUCpGoX2lKNB0=s360-rw)
 
 This game has been done fully with Flutter.
+
 Among the interesting parts, there are AI, animations and online capabilities.
+
 Find the app on Google Play [here](https://play.google.com/store/apps/details?id=com.apalala.hexagon).
 
 #### ApalalaParty
@@ -61,6 +68,7 @@ You can also find me on [Malt](https://www.malt.fr/profile/sebastienbel).
 ## Resume
 
 You can download my resume on my repo.
+
 Fun fact: it is made with Figma, as many of the assets I use daily in my work.
 
 My apps are available on Google Play:
