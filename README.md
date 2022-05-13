@@ -29,7 +29,7 @@ I already made 3 apps publicly available that you can find on [Google Play](http
 
 You can find this project on [GitHub](https://github.com/apalala-dev/zpuzzle). I was [one of the winners of the Flutter Puzzle Hack](https://devpost.com/software/zpuzzle) thanks to this project.
 
-You may also be interested in a package I developed for this project: [zwidget](https://pub.dev/packages/zwidget).
+You may also be interested in the package I made for this hackathon: [zwidget](https://pub.dev/packages/zwidget).
 
 It simulates 3D by overlapping the same widget several times and applying transforms to them.
 
