@@ -1,26 +1,28 @@
-<!--
-**antoinedelia/antoinedelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Flutter developer passionate about UX/UI
 
-Here are some ideas to get you started:
+Currently working **@Apparence.io**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://en.apparence.io"><img src="https://i.ibb.co/vL4zjvF/logoapp.png" alt="Apparence.io logo"></a>
 
-## Freelance Flutter developer passionate about UX/UI
+Apparence studio is a team where we constantly learn new things. We prefer quality over quantity. <br>
+From UX/UI design to production.
+<br>
 
-I am looking for opportunities, so if you have any Flutter related job, I might help you getting it done!
+**We 💙 :** 
+- ✅ TDD
+- 👨‍💻 👩‍💻 Pair programming 
+- 🎯 Good code
+- 💙 Flutter
+- 🚀 Spring, Kotlin, Rust, Angular...
 
-Even if Flutter is my key competence, you may also be interested in my ability to work with Figma. Indeed, most of my screens start with a mockup and if I need arts, I try to make them there as well. Svg rocks.
+**How to reach us 💬**
+- [Apparence.io website](https://en.apparence.io)
+- [Twitter](https://twitter.com/ApalalaCompany)
 
-Firebase, Android native, SQL and NoSQL are some of my other expertises.
 
-I already made 3 apps publicly available that you can find on [Google Play](https://play.google.com/store/apps/dev?id=5773474916640770322).
+## Personnal projects
+
+I made 3 apps publicly available that you can find on [Google Play](https://play.google.com/store/apps/dev?id=5773474916640770322).
 
 
 #### ZPuzzle
@@ -62,14 +64,7 @@ Feel free to contact me with the following:
 [![Linkedin](https://img.shields.io/twitter/url?label=S%C3%A9bastien%20Bel&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fs%25C3%25A9bastien-bel-960084142%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fs%25C3%25A9bastien-bel-960084142%2F)
 [![Twitter](https://img.shields.io/twitter/url?label=%40ApalalaCompany&style=social&url=https%3A%2F%2Ftwitter.com%2FApalalaCompany)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2FApalalaCompany)
 
-You can also find me on [Malt](https://www.malt.fr/profile/sebastienbel).
 
-
-## Resume
-
-You can download my resume on my repo.
-
-Fun fact: it is made with Figma, as many of the assets I use daily in my work.
 
 My apps are available on Google Play:
 [![Google Play](https://img.shields.io/twitter/url?label=Google%20Play&logo=googleplay&logoColor=338bff&style=social&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D5773474916640770322)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D5773474916640770322)
